@@ -1,2 +1,2 @@
 # Interprete-Sintaxis
-Construir un Intérprete para un lenguaje espesifico.
+Construir un Intérprete para un lenguaje especifico.
